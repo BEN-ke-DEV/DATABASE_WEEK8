@@ -3,6 +3,12 @@
 ## 📖 Description
 A  MySQL database solution for managing church operations sample data of  member records, pastoral staff, ministry teams, small groups, events, services, and financial tracking. This system provides the foundation for a church management software application.
 
+## Tools used 
+- MYSQL :for database creation
+- MOCKAROO :for creating sample data
+
+
+
 ## ✨ Features
 - Member information management
 - Pastor records with serving status
