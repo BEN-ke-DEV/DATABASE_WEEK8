@@ -31,7 +31,7 @@ A  MySQL database solution for managing church operations sample data of  member
 ### Installation
 1. Clone this repository:
    ```bash
-   git clonehttps://github.com/BEN-ke-DEV/DATABASE_WEEK8.git
+   git clone https://github.com/BEN-ke-DEV/DATABASE_WEEK8.git
 2.Open MySQL Workbench
 
 3.Connect to your MySQL server
